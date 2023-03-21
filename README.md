@@ -3,9 +3,10 @@ This is a python project which helps us to crack the ZIP file which is password 
 
 
 ## Requirements
-1.Python<br/>
-2.Password protected ZIP file<br/>
-3.A wordlist contains possible passwords<br/>
+1. Python<br/>
+2. Password protected ZIP file<br/>
+3. A wordlist contains possible passwords
+   <br>You can download common wordlist from here : https://github.com/AnirudhMadhu-01/Rockyou-Wordlist-
 <br/>
 
 ## Working
